@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import { Keyrune } from "@saeris/vue-keyrune"
-import { Mana, symbols, icons, sizes } from "../../src"
+import { Mana, symbols, icons, sizes } from "@saeris/vue-mana"
 import { State } from './state'
 import { Modal } from './modal'
 import { Radio } from './radio'

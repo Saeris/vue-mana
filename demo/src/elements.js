@@ -1,5 +1,5 @@
 import styled from "vue-emotion"
-import { Mana } from "../../src"
+import { Mana } from "@saeris/vue-mana"
 import { FocusTrap } from "./focusTrap"
 
 const colors = {
