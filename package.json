@@ -1,6 +1,6 @@
 {
   "name": "@saeris/vue-mana",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A simple Vue component wrapper around Mana Font",
   "author": "Drake Costa <drake@saeris.io>",
   "license": "MIT",
