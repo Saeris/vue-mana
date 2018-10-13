@@ -114,6 +114,10 @@ You can either visit the [live demo site](https://vue-mana.saeris.io), clone thi
 
 The demo site includes a searchable list of all available symbols with a handy preview tool with which you can quickly see the effects of the available props along with generated markup you can copy and paste right into your own application!
 
+## 🍴 Alternatives
+
+Looking for a React version of this component? We've got you covered! Check out [React-Mana](https://github.com/Saeris/react-mana).
+
 ## 📣 Acknowledgements
 
 Special thanks to [Andrew Gioia](https://github.com/andrewgioia) the creator of [Mana Font](https://github.com/andrewgioia/Mana) and to all that project's awesome contributors, without whom this library wouldn't exist!
