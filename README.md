@@ -25,9 +25,9 @@
 ## 📦 Installation
 
 ```bash
-npm install --save graphql @saeris/vue-mana mana-font
+npm install --save @saeris/vue-mana mana-font
 # or
-yarn add graphql @saeris/vue-mana mana-font
+yarn add @saeris/vue-mana mana-font
 ```
 
 > Note: [Keyrune](https://github.com/andrewgioia/Mana) is a required peer-dependency. This component will not work without it!
