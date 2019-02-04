@@ -6,7 +6,7 @@
     "@saeris/vue-keyrune": "latest",
     "@saeris/vue-mana": "latest",
     "babel-helper-vue-jsx-merge-props": "2.0.3",
-    "emotion": "9.2.12",
+    "emotion": "10.0.7",
     "focus-trap": "^3.0.0",
     "keyrune": "latest",
     "mana-font": "latest",
